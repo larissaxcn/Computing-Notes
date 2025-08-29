@@ -15,3 +15,11 @@ if __name__ == "__main__":
     # Alternate approach for string formatting:
     #print(f"Result for input x={x}, z={z}. Output:")
     print(f(x, z))
+
+'''
+(base) xuchuning@s-MacBook-Air 05-functions % python example_module.py
+Enter a value for x: 1
+Enter a value for z: 2
+Result for input x=1.0, z=2.0. Output:
+4.0
+'''

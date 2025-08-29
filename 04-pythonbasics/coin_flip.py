@@ -29,3 +29,5 @@ for i in range(n_trials):
 avg = sum(sim_results) / len(sim_results)
 
 print(avg, "average total number of coin flips in order to get", target, "heads in a row.")
+
+
